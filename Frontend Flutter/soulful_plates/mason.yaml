@@ -1,0 +1,52 @@
+# Register bricks which can be consumed via the Mason CLI.
+# Run "mason get" to install all registered bricks.
+# To learn more, visit https://docs.brickhub.dev.
+#
+#bricks:
+#  constants:
+#    path: F:\prjects\database\mason_plugin\constants\
+#  utils:
+#    path: F:\prjects\database\mason_plugin\utils\
+#  base_widgets:
+#    path: F:\prjects\database\mason_plugin\base_widgets\
+#  cognito_service:
+#    path: F:\prjects\database\mason_plugin\cognito_service\
+#  list_screen:
+#    path: F:\prjects\database\mason_plugin\list_screen\
+#  blank_screen:
+#    path: F:\prjects\database\mason_plugin\blank_screen\
+#  api_screen:
+#    path: F:\prjects\database\mason_plugin\api_screen\
+#  api_subscription:
+#    path: F:\prjects\database\mason_plugin\api_subscription\
+#  graphql_login:
+#    path: F:\prjects\database\mason_plugin\graphql_login\
+#  test_brick:
+#    path: F:\prjects\database\mason_plugin\test_brick\
+
+
+
+# Register bricks which can be consumed via the Mason CLI.
+# Run "mason get" to install all registered bricks.
+# To learn more, visit https://docs.brickhub.dev.
+bricks:
+  constants:
+    path: /Users/nikul/IdeaProjects/mason_plugin/constants/
+  utils:
+    path: /Users/nikul/IdeaProjects/mason_plugin/utils/
+  base_widgets:
+    path: /Users/nikul/IdeaProjects/mason_plugin/base_widgets/
+  cognito_service:
+    path: /Users/nikul/IdeaProjects/mason_plugin/cognito_service/
+  list_screen:
+    path: /Users/nikul/IdeaProjects/mason_plugin/list_screen/
+  blank_screen:
+    path: /Users/nikul/IdeaProjects/mason_plugin/blank_screen/
+  api_screen:
+    path: /Users/nikul/IdeaProjects/mason_plugin/api_screen/
+  api_subscription:
+    path: /Users/nikul/IdeaProjects/mason_plugin/api_subscription/
+  graphql_login:
+    path: /Users/nikul/IdeaProjects/mason_plugin/graphql_login/
+  test_brick:
+    path: /Users/nikul/IdeaProjects/mason_plugin/test_brick/

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "672088069814",
+    "project_id": "soulfulplates-6fc26",
+    "storage_bucket": "soulfulplates-6fc26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672088069814:android:7b4601d47007fac2c47817",
+        "android_client_info": {
+          "package_name": "com.soulful.plates.client.soulful_plates_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgH1gwlLVAH4sRfMt7MkCWF4vR_pH8AWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672088069814:android:6b68a29ed289dbb9c47817",
+        "android_client_info": {
+          "package_name": "com.soulful.plates.soulful_plates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgH1gwlLVAH4sRfMt7MkCWF4vR_pH8AWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
